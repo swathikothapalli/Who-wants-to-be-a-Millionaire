@@ -1,0 +1,25 @@
+Project Name: Who wants to be a Millionaire
+Developers: GOWTHAM THATAVARTHI,  SANTOSHI KAVYA DUGGANA, SWATHI KOTHAPALLI.
+About: This is an adaptation of the game show “Who wants to be a Millionaire”, which is very 		popular. The tech-stack used are HTML, CSS, PHP.
+Game Rules:
+•	You must register yourself to play the game.
+•	Once registered, you can login and play the game anytime.
+•	There are easy, medium and difficult levels in the game. Two questions for each level.
+•	Each level has a question and 4 options. Questions are randomized for each user. There is only one right answer.
+•	Upon submitting the correct option, you will be given the score and taken to the next level.
+•	Upon submitting the wrong answer, your game will be terminated, you will be awarded the cash prize.
+•	For every question, you can use a hint to seek the right answer. 
+•	Every time the hint is used, your score will be halved.
+•	Upon clearing the 6th Level, you will be awarded One Million Dollars.
+•	You will be redirected to the Leader board page, once your game is finished or if you are terminated.
+Highlights:
+•	We used the common.php file, where we moved the redundant code as PHP functions which are used across all other pages. Moving redundant code saved us a lot of time. For example, having common nav bar included in common.php file.
+
+•	We used the PHP random functions to change the order of questions every time a user starts the game, which makes a huge difference in game difficulty. We have set 3 difficulty levels easy, medium and high. 
+
+•	Whenever a hint is used in answering, the score reduces by half. This feature helps equalize users' performance on the leaderboard.
+
+•	Each user max score is updated in the leaderboard, making it more favorable to the user.
+
+•	The filpcard CSS file is used to provide flip animation in game page which is quite different from other projects.
+
