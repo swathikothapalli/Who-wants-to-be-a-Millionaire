@@ -1,0 +1,6 @@
+1,In the UK the abbreviation NHS stands for National what Service?,Health,Humanity,Honour,Household,Health,H_____,Health,Honor
+2,Which Disney character famously leaves a glass slipper behind at a royal ball?,Pocahontas,Sleeping Beauty,Cinderella,Elsa,Cinderella,I love shoes,Sleeping Beauty,Cinderella
+3,What name is given to the revolving belt machinery in an airport that delivers checked luggage from the plane to baggage reclaim?,Hangar,Terminal,Concourse,Carousel,Carousel,C_______,Terminal,Carousel
+4,What was the name of the Spanish waiter in the TV sitcom Fawlty Towers?,Manuel,Pedro,Alfonso,Javier,Manuel,____e_,Manuel,Alfonso
+5,Which battles took place between the Royal Houses of York and Lancaster?,Thirty Years War,Hundred Years War,War of the Roses,English Civil War,War of the Roses,Queen of flowers,War of the Roses,English Civil War
+6,Which former Beatle narrated the TV adventures of Thomas the Tank Engine?,John Lennon,Paul McCartney,George Harrison,Ringo Starr,Ringo Starr,What do you find in the sky at night?,John Lennon,Ringo Starr

@@ -1,0 +1,6 @@
+13,Where would a "peruke" be worn?,Around the neck,On the head,Around the waist,On the wrist,On the head,Top,On the head,Around the waist
+14,In which palace was Queen Elizabeth I born?,Greenwich,Richmond,Hampton Court,Kensington,Greenwich,It is taken as reference for Time Zones,Greenwich,Richmond
+15,From which author's work did scientists take the word "quark"?,Lewis Carroll,Edward Lear,James Joyce,Aldous Huxley,James Joyce,JJ are the initials,James Joyce,Aldous Huxley
+16,Which of these islands was ruled by Britain from 1815 until 1864?,Crete,Cyprus,Corsica,Corfu,Corfu,Cor__,Corsica,Corfu
+17,Which of these brands was chiefly associated with the manufacture of household locks?,Phillips,Flymo,Chubb,Ronseal,Chubb,It rhymes with Hub,Chubb,Ronseal
+18,The hammer and sickle is one of the most recognisable symbols of which political ideology?,Republicanism,Communism,Conservatism,Liberalism,Communism,Co_________m,Communism,Conservatism

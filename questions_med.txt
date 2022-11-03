@@ -1,0 +1,6 @@
+7,Queen Anne was the daughter of which English Monarch?,James II,Henry VIII,Victoria,William I,James II,Second in Name,James II,Victoria
+9,What is the Celsius equivalent of 77 degrees Fahrenheit?,15,20,25,30,25,2_,15,25
+10,Suffolk Punch and Hackney are types of what?,Carriage,Wrestling style,Cocktail,Horse,Horse,It is an Animal,Wrestling style,Horse
+11,Which Shakespeare play features the line "Neither a borrower nor a lender be"?,Hamlet,Macbeth,Othello,The Merchant of Venice,Hamlet,A remake is made in India with Shahid Kapoor,Hamlet,Othello
+12,Which is the largest city in the USA's largest state?,Dallas,Los Angeles,New York,Anchorage,Anchorage,Not a famous city,Dallas,Anchorage
+13,The word "aristocracy" literally means power in the hands of whom?,The few,The best,The barons,The rich,The best,Starts with B,The few,The best
